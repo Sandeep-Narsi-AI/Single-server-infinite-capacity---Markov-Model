@@ -27,5 +27,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Output :
 
+![output](output.png)
+
 ## Result :
 
